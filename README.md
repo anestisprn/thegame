@@ -2,7 +2,7 @@
 
 ### This a very simple game <br>
 
-- Open your VS Code and within open a bash terminal<br>
+- Open your VS Code and within it, open a bash terminal<br>
 - Clone this repository<br>
 - The repository contains three files.
     - This readme
