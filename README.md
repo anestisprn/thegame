@@ -1,16 +1,18 @@
-# thegame
+# Strange File The Game
 
-# This a very simple game <br>
+### This a very simple game <br>
 
-Open your VS Code and ubuntu Terminal in it <br>
-Clone this repository<br>
-The repository contents three files. This readme, .gitignore and another one...
-Observe the file with VS Code editor or vi editor directly within the terminal.<br>
-Everybody thinks that this is a .txt file but what will happen if we change the extension?<br>
-If you look closer you will figure out that with some minor changes in the code and the file you can execute the code and reseive an interesting result.<br>
+- Open your VS Code and within open a bash terminal<br>
+- Clone this repository<br>
+- The repository contains three files.
+    - This readme
+    - .gitignore
+    -  and another one...
+- Observe the file with VS Code editor or with VI editor<br>
+- At first this file seems like a typical .txt file but what will happen if we change the extension?<br>
+- If you look closer you will figure out that with some minor changes in the code and the file itself you can execute the code and reseive an interesting result.<br>
 
-# Let me know your unigue result by forking the repository below in your github account<br>
+### Let me know your unigue result by forking the repository below in your github account ans submit a Pull Request<br>
 
-https://github.com/xpaulos/secret <br>
-write the your result in the README.md,push the changes and submit a pull request to me.<br>
-Maybe there is a price at the end of the merge.<br>
+Repository to fork https://github.com/xpaulos/secret <br>
+- Write your unique result in the README.md, push the changes to your fork and submit a pull request to me.<br>
